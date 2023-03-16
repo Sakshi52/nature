@@ -1,0 +1,29 @@
+/*CSS*/
+a{
+	text-decoration:none;
+	color:white;
+	display:block;
+}
+
+li{
+	/*border-style:solid;*/
+	display:inline-block;
+	background-color:brown;
+	width:140px;
+	height:55px;
+	text-align:center;
+	font-size:15px;
+	font-family:verdana;
+
+}
+
+.bg{
+	background-image:url('../images/nature.jpg');
+	height:100%;
+	width:100%;
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+	
+}
